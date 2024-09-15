@@ -15,6 +15,13 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
 
+i18n:
+  allSystemsOperational: Обуз бесплатного тира проходит успешно!
+  overallUptime: "Аптайм таракошка технолоджис: $UPTIME"
+  overallUptimeTitle: Аптайм таракошка технолоджис
+  averageResponseTime: "Таракошка отвечает за: $TIMEms"
+  averageResponseTimeTitle: Таракошка отвечает за
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
