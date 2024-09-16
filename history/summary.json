@@ -4,19 +4,19 @@
     "url": "https://tarakoshka.tech",
     "icon": "https://icons.duckduckgo.com/ip3/tarakoshka.tech.ico",
     "slug": "tarakoshka-tech",
-    "status": "up",
-    "uptime": "94.84%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "94.84%",
-    "uptimeMonth": "94.84%",
-    "uptimeYear": "94.84%",
+    "status": "down",
+    "uptime": "96.38%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "96.38%",
+    "uptimeYear": "96.38%",
     "time": 299,
     "timeDay": 299,
     "timeWeek": 299,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2024-09-16": 49,
+      "2024-09-16": 36,
       "2024-09-15": 15
     }
   }
