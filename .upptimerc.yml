@@ -16,7 +16,7 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 i18n:
-  allSystemsOperational: Обуз бесплатного тира проходит успешно!
+  allSystemsOperational: Кайфуем!
   overallUptime: "Аптайм таракошка технолоджис: $UPTIME"
   overallUptimeTitle: Аптайм таракошка технолоджис
   averageResponseTime: "Таракошка отвечает за: $TIMEms"
